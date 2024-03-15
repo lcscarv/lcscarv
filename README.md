@@ -1,7 +1,7 @@
 ### Hello There! 
 ![HelloThereHiThereGIF](https://user-images.githubusercontent.com/37702071/228914224-e0b78a8f-95f7-4298-adae-77dbce31ef85.gif)
 
-- 🔭 Jr. Data Scientist Open to Work
+- 🔭 Jr. Data Scientist at [Snowfox AI](https://www.snowfox-ai.com/en_us/)
 - 🌱 Experienced in the languages Python and SQL for data analysis and treatment, dbt for data ingestion, transformation, and processing, Pyspark for data processing, Kedro for building complete, reproducible, and modular Machine Learning pipelines, MLFlow for Machine Learning lifecycle management, cloud services for data warehousing like Databricks and Snowflake, and data science libraries.
 Already worked with Data Science problems like Time Series, Natural Language Processing, Reinforcement Learning, Regression, and Classification, as well as building data science pipelines and deployment of machine learning models using fastAPI. Familiar with Orchestration tools like Docker, Kubernetes, and Airflow. 
 - ⚡ Fun fact: I'm also a musician 🎸
